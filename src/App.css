@@ -1,0 +1,24 @@
+/* Your existing styles for the button */
+.scroll2top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: transparent; /* Set the background color to transparent */
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 50%;
+  border-radius: 8px;
+  background-color: rgb(154, 119, 182);
+  color: white; /* Set text color to white or your preferred color */ 
+}
+
+/* Optional: Add hover effect to the button */
+.scroll2top:hover {
+  background-color: #0c1883; /* Set a background color on hover if desired */
+}
+
+@media (max-width: 600px) {
+  .scroll2top {
+    opacity: 0.4;
+  }
+}
