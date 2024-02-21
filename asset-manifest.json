@@ -1,0 +1,9 @@
+{
+  "files": {
+    "main.js": "/react-deploy/static/js/main.31d6cfe0.js",
+    "index.html": "/react-deploy/index.html"
+  },
+  "entrypoints": [
+    "static/js/main.31d6cfe0.js"
+  ]
+}
